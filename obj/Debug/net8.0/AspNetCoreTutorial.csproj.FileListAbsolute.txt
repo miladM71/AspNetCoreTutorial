@@ -28,3 +28,4 @@ C:\DevOps\AspNetCoreTutorial\obj\Debug\net8.0\refint\AspNetCoreTutorial.dll
 C:\DevOps\AspNetCoreTutorial\obj\Debug\net8.0\AspNetCoreTutorial.pdb
 C:\DevOps\AspNetCoreTutorial\obj\Debug\net8.0\AspNetCoreTutorial.genruntimeconfig.cache
 C:\DevOps\AspNetCoreTutorial\obj\Debug\net8.0\ref\AspNetCoreTutorial.dll
+C:\DevOps\AspNetCoreTutorial\obj\Debug\net8.0\AspNetCoreTutorial.sourcelink.json

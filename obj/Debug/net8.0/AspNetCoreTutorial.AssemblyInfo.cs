@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3769725371a85bb2d5095fb71ed781986397f957")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
